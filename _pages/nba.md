@@ -1,5 +1,5 @@
 ---
 title:     My Awesome Page
-permalink: /api
+permalink: /nba
 layout:    page
 ---
