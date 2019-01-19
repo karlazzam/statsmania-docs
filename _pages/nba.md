@@ -27,7 +27,7 @@ author_profile: false
     <tr><td>MIL</td><td>Milwaukee Bucks</td></tr>
     <tr><td>MIN</td><td>Minnesota Timberwolves</td></tr>
     <tr><td>NOP</td><td>New Orleans Pelicans</td></tr>
-    <tr><td>NYK</td><td>New York Knick</td></tr>
+    <tr><td>NYK</td><td>New York Knicks</td></tr>
     <tr><td>OKC</td><td>Oklahoma City Thunder</td></tr>
     <tr><td>ORL</td><td>Orlando Magic</td></tr>
     <tr><td>PHI</td><td>Philadelphia 76ers</td></tr>
@@ -48,6 +48,46 @@ author_profile: false
     <tr><td>gameStarted</td><td>Games Started</td><td>Integer</td><td>Y</td></tr>
     <tr><td>minPlayed</td><td>Games Played</td><td>Integer</td><td>Y</td></tr>
     <tr><td>fieldGoalsM</td><td>Field Goals Made</td><td>Double</td><td>Y</td></tr>
-    <tr><td>fieldGoalsA</td><td>Field Goal Attempted</td><td>Double</td><td>Y</td></tr>
+    <tr><td>fieldGoalsA</td><td>Field Goals Attempted</td><td>Double</td><td>Y</td></tr>
+    <tr><td>fieldGoalPerc</td><td>Field Goal %</td><td>Double</td><td>Y</td></tr>
+    <tr><td>threePointM</td><td>3 Pointers Made</td><td>Double</td><td>Y</td></tr>
+    <tr><td>threePointA</td><td>3 Pointers Attempted</td><td>Double</td><td>Y</td></tr>
+    <tr><td>threePointPerc</td><td>3 Point %</td><td>Double</td><td>Y</td></tr>
+    <tr><td>twoPointM</td><td>Two Pointers Made</td><td>Double</td><td>Y</td></tr>
+    <tr><td>twoPointA</td><td>Two Pointers Attempted</td><td>Double</td><td>Y</td></tr>
+    <tr><td>twoPointPerc</td><td>Two Point %</td><td>Double</td><td>Y</td></tr>
+    <tr><td>eFGPerc</td><td>Effective Field Goal %</td><td>Double</td><td>Y</td></tr>
+    <tr><td>freeThrowsM</td><td>Free Throws Made</td><td>Double</td><td>Y</td></tr>
+    <tr><td>freeThrowsA</td><td>Free Throws Attempted</td><td>Double</td><td>Y</td></tr>
+    <tr><td>freeThrowsPerc</td><td>Free Throw %</td><td>Double</td><td>Y</td></tr>
+    <tr><td>offReb</td><td>Offensive Rebounds per game</td><td>Double</td><td>Y</td></tr>
+    <tr><td>defReb</td><td>Defensive Rebounds per game</td><td>Double</td><td>Y</td></tr>
+    <tr><td>totalReb</td><td>Total Rebounds per game</td><td>Double</td><td>Y</td></tr>
+    <tr><td>assists</td><td>Assists per game</td><td>Double</td><td>Y</td></tr>
+    <tr><td>steals</td><td></td>Steals per game<td>Double</td><td>Y</td></tr>
+    <tr><td>blocks</td><td></td>Blocks per game<td>Double</td><td>Y</td></tr>
+    <tr><td>turnovers</td><td>Turnovers per game</td><td>Double</td><td>Y</td></tr>
+    <tr><td>personalFouls</td><td>Personal Fouls per game</td><td>Double</td><td>Y</td></tr>
+    <tr><td>pointsPerG</td><td>Points per game</td><td>Double</td><td>Y</td></tr>
+    <tr><td>per</td><td>PER</td><td>Double</td><td>N</td></tr>
+    <tr><td>trueShootingPerc</td><td>True Shooting %</td><td>Double</td><td>N</td></tr>
+    <tr><td>threePointAttRate</td><td>3 Point Attempt Rate</td><td>Double</td><td>N</td></tr>
+    <tr><td>freeThrowRate</td><td>Free Throw Rate</td><td>Double</td><td>N</td></tr>
+    <tr><td>offRebRate</td><td>Offensive Rebound Rate</td><td>Double</td><td>N</td></tr>
+    <tr><td>defRebRate</td><td>Defensive Rebound Rate</td><td>Double</td><td>N</td></tr>
+    <tr><td>totalRebRate</td><td>Total Rebound Rate</td><td>Double</td><td>N</td></tr>
+    <tr><td>assistRate</td><td>Assist Rate</td><td>Double</td><td>N</td></tr>
+    <tr><td>stealRate</td><td>Steal Rate</td><td>Double</td><td>N</td></tr>
+    <tr><td>blockRate</td><td>Block Rate</td><td>Double</td><td>N</td></tr>
+    <tr><td>turnoverRate</td><td>Turnover Rate</td><td>Double</td><td>N</td></tr>
+    <tr><td>usageRate</td><td>Usage Rate</td><td>Double</td><td>N</td></tr>
+    <tr><td>offWinShares</td><td>Offensive Win Shares</td><td>Double</td><td>N</td></tr>
+    <tr><td>defWinShares</td><td>Defensive Win Shares</td><td>Double</td><td>N</td></tr>
+    <tr><td>winShares</td><td>Win Shares</td><td>Double</td><td>N</td></tr>
+    <tr><td>winSharesPer48</td><td>Win Shares per 48</td><td>Double</td><td>N</td></tr>
+    <tr><td>obpm</td><td>OBPM</td><td>Double</td><td>N</td></tr>
+    <tr><td>dbpm</td><td>DBPM</td><td>Double</td><td>N</td></tr>
+    <tr><td>bpm</td><td>BPM</td><td>Double</td><td>N</td></tr>
+    <tr><td>vorp</td><td>VORP</td><td>Double</td><td>N</td></tr>
   </table>
 </details>
