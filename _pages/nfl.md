@@ -1,5 +1,6 @@
 ---
 permalink: /nfl
+author_profile: false
 ---
 
 
