@@ -1,10 +1,8 @@
 # main links
 main:
-  - title: "API"
-    url: /api
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "API Documentation"
+    url: https://karlazzam.github.io/statsmania-api-docs/#/
+  - title: "NBA Docs"
+    url: /nba
+  - title: "NFL Docs"
+    url: /nfl

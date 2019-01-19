@@ -1,6 +1,13 @@
 /* ==========================================================================
    Syntax highlighting
    ========================================================================== */
+#container {
+  float: left;
+  margin: 0 -240px 0 0;
+  width: 100%;
+}
+
+
 
 div.highlighter-rouge,
 figure.highlight {
@@ -60,6 +67,11 @@ figure.highlight {
   background-color: $base06;
 }
 .highlight {
+  margin: 0;
+  padding: 1em;
+  font-family: $monospace;
+  font-size: $type-size-7;
+  line-height: 1.8;
   .c {
     /* Comment */
     color: $base04;
