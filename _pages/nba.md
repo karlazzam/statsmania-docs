@@ -10,13 +10,10 @@ Year
 
 
 <details><summary><b>teamName</b> key and value mapping</summary>
-<p>
 
-| teamName |      Value     |
-|----------|:--------------:|
-| ATL      |  Atlanta Hawks |
-| BOS      | Boston Celtics |
-| col 3 is |  right-aligned |
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
 
-</p>
 </details>
