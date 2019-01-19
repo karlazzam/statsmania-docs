@@ -23,7 +23,7 @@ author_profile: false
     <tr><td>LAC</td><td>Los Angeles Clippers</td></tr>
     <tr><td>LAL</td><td>Los Angeles Lakers</td></tr>
     <tr><td>MEM</td><td>Memphis Grizzlies</td></tr>
-    <tr><td>MIA</td><td>Miami Heat"</td></tr>
+    <tr><td>MIA</td><td>Miami Heat</td></tr>
     <tr><td>MIL</td><td>Milwaukee Bucks</td></tr>
     <tr><td>MIN</td><td>Minnesota Timberwolves</td></tr>
     <tr><td>NOP</td><td>New Orleans Pelicans</td></tr>
@@ -40,6 +40,8 @@ author_profile: false
     <tr><td>WAS</td><td>Washington Wizards</td></tr>
   </table>
 </details>
+
+<br>
 
 <details><summary><b>Player Attributes</b></summary>
   <table>
@@ -64,8 +66,8 @@ author_profile: false
     <tr><td>defReb</td><td>Defensive Rebounds per game</td><td>Double</td><td>Y</td></tr>
     <tr><td>totalReb</td><td>Total Rebounds per game</td><td>Double</td><td>Y</td></tr>
     <tr><td>assists</td><td>Assists per game</td><td>Double</td><td>Y</td></tr>
-    <tr><td>steals</td><td></td>Steals per game<td>Double</td><td>Y</td></tr>
-    <tr><td>blocks</td><td></td>Blocks per game<td>Double</td><td>Y</td></tr>
+    <tr><td>steals</td><td>Steals per game</td><td>Double</td><td>Y</td></tr>
+    <tr><td>blocks</td><td>Blocks per game</td><td>Double</td><td>Y</td></tr>
     <tr><td>turnovers</td><td>Turnovers per game</td><td>Double</td><td>Y</td></tr>
     <tr><td>personalFouls</td><td>Personal Fouls per game</td><td>Double</td><td>Y</td></tr>
     <tr><td>pointsPerG</td><td>Points per game</td><td>Double</td><td>Y</td></tr>
