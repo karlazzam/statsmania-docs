@@ -3,6 +3,8 @@ permalink: /nba
 author_profile: false
 ---
 
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/c1fddd4fb5295868a703)
+
 <b>Years currently supported:</b> 2017-2019
 
 <details><summary><b>teamName</b> map</summary>
